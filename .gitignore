@@ -1,0 +1,12 @@
+# macos
+.DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# generated outputs
+Provider_Views_Output/
+yolo11n.pt
